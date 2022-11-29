@@ -1,6 +1,11 @@
 # first_flutter_app
 
-A new Flutter project.
+Just for learning purpose
+
+![main](https://user-images.githubusercontent.com/52631071/204491963-8f29631a-6392-4f9a-aa23-1dae0a830d5c.PNG)
+
+![main1](https://user-images.githubusercontent.com/52631071/204492002-5f38f0cb-692e-4685-a686-5a3984b40b03.PNG)
+
 
 ## Getting Started
 
